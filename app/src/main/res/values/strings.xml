@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UTS_ChanaSO_2018310078</string>
+    <string name="icon">Binainsani University</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="lupaPassword">Forgot Password?</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="goodJob">Good Job, you\'re complate 6% more task this mounth</string>
+    <string name="signup">No Account Yet? Signup Now</string>
+</resources>
